@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/9rQTRXr/Photography-Tutorial-Youtube-Channel-Cover-Made-with-Poster-My-Wall.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/1TMNPqS/leio-mclaren-L2d-Tmh-Qzx4-Q-unsplash.jpg",
+      "posted_date": "March 16, 2024",
+      "reading_time": 10,
+      "hashtags": ["programming", "coding", "technology"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/BKXLjhG/sarah-dorweiler-x2-Tmfd1-Sg-A-unsplash.jpg",
+      "title": "The Science of Data",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/1TMNPqS/leio-mclaren-L2d-Tmh-Qzx4-Q-unsplash.jpg",
+      "posted_date": "March 15, 2024",
+      "reading_time": 8,
+      "hashtags": ["data science", "analytics", "machine learning"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/JKSbMPb/sasha-freemind-n-Xo2-Zs-KHTHg-unsplash.jpg",
+      "title": "Designing for the Web",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/1TMNPqS/leio-mclaren-L2d-Tmh-Qzx4-Q-unsplash.jpg",
+      "posted_date": "March 14, 2024",
+      "reading_time": 12,
+      "hashtags": ["web design", "frontend", "UI/UX"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/JBpTBwY/jaredd-craig-HH4-WBGNyltc-unsplash.jpg",
+      "title": "The World of Finance",
+      "author": "David Brown",
+      "author_img": "https://i.ibb.co/1TMNPqS/leio-mclaren-L2d-Tmh-Qzx4-Q-unsplash.jpg",
+      "posted_date": "March 13, 2024",
+      "reading_time": 15,
+      "hashtags": ["finance", "investing", "economics"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/nmY0g4y/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+      "title": "Cooking Made Easy",
+      "author": "Emily Green",
+      "author_img": "https://i.ibb.co/1TMNPqS/leio-mclaren-L2d-Tmh-Qzx4-Q-unsplash.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 7,
+      "hashtags": ["cooking", "recipes", "food"]
+    }
+  ]
+  
